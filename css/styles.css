@@ -1,0 +1,24 @@
+h3 {
+  font-size: 13px;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.body {
+  border-bottom: 1px solid #ccc;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.left-pannel {
+  border-right: 2px outset lightblue;
+  width: 170px;
+}
+
+.wiki-image {
+  margin: 25px;
+}
